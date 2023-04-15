@@ -11,7 +11,7 @@ class Header extends Component {
           level={1}
           style={{ color: "white", fontWeight: "normal" }}
         >
-          Axios Portal
+          Student Management App
         </Typography.Title>
       </Layout.Header>
     );

@@ -54,7 +54,7 @@ class App extends Component {
         </Switch>
         <Layout.Footer className={Classes.footer}>
           <Icon type="copyright" theme="twoTone" />
-          &nbsp;Axios
+          &nbsp;StudentManagementApp
         </Layout.Footer>
       </>
     );
