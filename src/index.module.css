@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  text-align: center;
+}
+
+.sideNav {
+  height: 100%;
+}
+
+@media only screen and (max-width: 1400px) {
+  .footer {
+    height: 45px;
+  }
+}
+@media only screen and (max-width: 650px) {
+}

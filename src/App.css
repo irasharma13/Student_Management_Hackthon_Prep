@@ -1,0 +1,51 @@
+*::selection {
+  background: pink !important;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 15px transparent;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(58, 54, 54, 0.397);
+  border-radius: 50%;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #72417e;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text&display=swap");
+body {
+  font-family: "Crimson Text", serif !important;
+}
+
+.attendance-page {
+  display: grid;
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+@media only screen and (max-width: 1000px) {
+  .attendance-page {
+    grid-template-columns: 1fr;
+  }
+}
+/* Ant CSS Modified */
+
+.ant-result-image {
+  margin: 0px !important;
+}
