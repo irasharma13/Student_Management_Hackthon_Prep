@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "student-portal-384505",
+  "private_key_id": "2f5e044a9e9c351d46be695707da92b07c02beac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDpKSpG30CaaI3M\n/kXn7f3M4l+/Ohq4bI3Sgj+FJNUC0241GtoqjS8EwoewzK6q9MRYeiJkd9AW+R7k\no+mknzC8k1kZL6OJOTLBnmEQpMq4Y2K6qfAn7CuoCMjFVst1WcTqCi+7FgXq7nR8\n6HJtX0L3xIH6b0sqH3ZE2xMc2ca4x8KR4/3X7WECZtHdzeIdDsUWZE6KcMTIVuIg\nG9+skldtZvykEjVzLoGXSN/VJu6qbHAUjXAVYLZm9F+EaVOSGhImhLxisI/MWrIl\nA7b1w1oVZbZv9w/zewM6E1U8PV4BNN0YdXlBkyL3w9sSxo91DewprwITaAGC8RCJ\n7FW12mvzAgMBAAECggEAAj7/8JgspSV7XY2C2uMeCMqS0DgdEx297ViNMsPSEX7m\nluMKqvzv2682uMCgBiGUKqNdOsk0sKP3D44iArtN2uMzKTJI9FogCmFziezXJG5A\nqzpWh+vsgmfjQei+I66ZCQV5budIE0/3a09J8D0fW10B64mwQwLz6WHljeeYfyXY\nyEfHS/Eic2Oe8U1eELsgVzobflrjqsR3hx3JGhNfT6UsTKE06ignBq0UYbm8Gbsu\n6KG0QmPXjZZBbW94ILiVLTs5+IGf5JcbQwfv7vgTGFWAHWhmYCNEKX/+YJZl1pV1\nVORfE5N0nLyhvC3v0hyzoBNa3ivmA068uCYf52Z3MQKBgQD1o2s4wofkDKxTwYJI\nx/f49PFxb3m16sI4D71kalAKpm6biF2DyKu3jMkxliqFoqVzB8da1Ij4J2eup6Vr\nHJ3DdrMeWafj8GKGRdhLSuG0UGJIkLcXtYzOjZB9i7IWiH/Kl4dYCqV9nDie6Esj\ng+H4k8pEa2xUc+GRWvIpztkOZQKBgQDy/wEvtLb3vxfkMLbnr/n6e9OeeOI74Qpo\nRebohwAMTAuYVcGVii33qSNXJPzAStatphI5cGEXsBVV4yjq0JFvM5M5lPULvQRl\nZU5xP0mylGIhz+cerkL3ih3KNTsW9Ig7c4jFDeSmFy/xfzpFzluitnnZa+4VuiTX\nfddHILSfdwKBgQDsMXQDQwJ55Tm626JUK3wkdhrHkYI9y3tvfqsFKDjI1NocUdZh\nxo5fU0+Oj69Zilh+sGcfzqfZvcIzrd4gjYahkbyQHXOTeOyz4esmEt3OjVDEJ+r2\nMEsxvevG3JGkmyIOAwBQRwR0MMg8/G5ruv+JD0r52TV0S20FYKbkTpJmBQKBgQC7\nAUzkbesxlrrIPkVE4MU84/bkSpuxAWuE++bMpLiAvjVeMwEcGI9vvZcZBboOMoos\ncVYtJjNSi4yf4IYo0AJc1hBDjENZmUm8zs4jkVUiPdeXtexkTC/1WTG74GNtMxt0\nxWFIZXzF5apb7FHoTvtuqYf0r3828V5RCOOYNa9L2QKBgQDqvW1oBKV/MNGIdYYg\nVvuj1gLGxFQ5EPqH+m7XfHEgMbVWKa687LULzhIrPjQ4bj1gssMYB/3ex78jtNFz\ninXjRYN/lz4mxwdZWSfiFub/bRBthFlvOYZXBNj8sOKxPZ/G8lnPaxj7kAsSBXlG\nLOoQUMI3bNaoyhmDuIX7y4Q6+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lahacks@student-portal-384505.iam.gserviceaccount.com",
+  "client_id": "112426432238330198494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lahacks%40student-portal-384505.iam.gserviceaccount.com"
+}

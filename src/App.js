@@ -14,6 +14,7 @@ import Error404 from "./components/Error404/Error404";
 import AssignmentHome from "./components/Student/Assignment/AssignmentHome";
 
 
+
 class App extends Component {
   render() {
     return (
@@ -43,6 +44,7 @@ class App extends Component {
                   <Header />
                   <Layout.Content>
                     {/*<WrappedRegistrationForm />*/}
+                    
                   </Layout.Content>
                 </>
               );
@@ -60,5 +62,6 @@ class App extends Component {
     );
   }
 }
+
 
 export default App;
